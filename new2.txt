@@ -1,3 +1,12 @@
 こんにちは
 Hello,world!
 hello,againgit
+hello,again & again
+insert by editergit
+insert again
+insert again again
+12345
+"6789" 
+"abcde" 
+"もう一度" 
+追加
